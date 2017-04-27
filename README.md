@@ -20,4 +20,7 @@ local file system.
 
 ## How To Contrbute
 
-Added line
+Please folk this repository and pull for review
+
+## Copyright
+
