@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Wesley Busdiecker wes.wbusdiecker.com
 
 # THANKS
 
